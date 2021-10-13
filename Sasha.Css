@@ -1,0 +1,57 @@
+.backgroundgreen{
+  background-color: green;
+}
+.backgroundblue{
+  background-color: blue;
+}
+
+.backgroundbrown{
+  background-color: brown;
+}
+
+
+.backgroundgrey{
+  background-color: grey;
+}
+
+
+.al{
+background-color: pink;
+}
+.b2{
+  background-color: yellow;
+}
+
+.c3{
+  background-color: green;
+}
+
+.d4{
+  background-color: maroon;
+}
+body{
+font-family:Heleventica;
+font-size: 50px;
+color:orange;
+text-align: center;
+font-style:Informal Roman Regular;
+  background-color:purple;
+}
+
+nav{
+  background-color: maroons;
+  padding:20px;
+}
+nav a{
+  display:inline-inline-block;
+  padding:20px;
+  color:white;
+}
+nav a:hover{
+  background-color: indigo;
+}
+
+body{
+  font-family:Vivaldi italics;
+  font-weight: lighter;
+}
